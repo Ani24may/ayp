@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nv_profile"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Profile">
+
+        </item>
+        <item
+            android:id="@+id/members"
+            android:icon="@drawable/members"
+            android:title="Members">
+
+        </item>
+
+        <item
+            android:id="@+id/commitee"
+            android:icon="@drawable/commitee"
+            android:title="Commitee">
+
+        </item>
+
+        <item
+            android:id="@+id/gallery"
+            android:icon="@drawable/photo_gallery"
+            android:title="Gallery">
+
+        </item>
+
+        <item
+            android:id="@+id/vivah"
+            android:icon="@drawable/star"
+            android:title="Vivah Parichay">
+
+        </item>
+    </group>
+
+</menu>

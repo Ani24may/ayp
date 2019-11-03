@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/events"
+        android:icon="@drawable/events"
+        android:title="Events">
+
+    </item>
+    <item
+        android:id="@+id/news_feed"
+        android:icon="@drawable/news_feed"
+        android:title="News Feed">
+
+    </item>
+
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AYP</string>
+    <string name="navigation_draw_open">Open Nvaigation Drawer</string>
+    <string name="navigation_draw_close">Close Nvaigation Drawer</string>
+    <string-array name="categories">
+        <item>Choose Member Category</item>
+        <item>NA</item>
+        <item>General</item>
+    </string-array>
+</resources>
